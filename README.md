@@ -43,4 +43,3 @@ My latest resume is available in this repository.
 * LinkedIn: [https://www.linkedin.com/in/pradnya-awachar-9bb0383aa/](https://www.linkedin.com/in/pradnya-awachar-9bb0383aa/)
 * Email: pradnyaavchar2424@gmail.com
 
-This format looks professional and is suitable for both Data Analyst and Business Analyst internship applications.
