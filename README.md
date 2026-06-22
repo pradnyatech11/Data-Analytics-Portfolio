@@ -1,3 +1,5 @@
+# Updated Portfolio README
+
 # Data Analytics Portfolio
 
 Welcome to my Data Analytics and Business Analytics portfolio. This repository showcases my expertise in data analysis, business intelligence, and data-driven decision-making across diverse industries.
@@ -6,6 +8,7 @@ Welcome to my Data Analytics and Business Analytics portfolio. This repository s
 
 ### Academic Projects
 - **[Optimizing IT Data Integrity and ROI through a 5Vs Approach](#optimizing-it-data-integrity-and-roi-through-a-5vs-approach)** - Field research on Big Data dimensions and their impact on organizational ROI
+- **[FMCG Industry Analysis (India)](#fmcg-industry-analysis-india)** - Comprehensive comparative analysis of top and bottom FMCG companies
 
 ---
 
@@ -19,15 +22,6 @@ Welcome to my Data Analytics and Business Analytics portfolio. This repository s
 
 #### 📋 Overview
 This field project investigated how the five dimensions of Big Data (Volume, Velocity, Variety, Veracity, and Value) influence IT Data Integrity and Return on Investment (ROI) in working organizations.
-
-#### 🔬 Research Methodology
-- **Survey Design:** Structured questionnaire distributed via Google Forms
-- **Sample Size:** 118 respondents
-- **Industry Coverage:** IT/Software, Healthcare, Finance, Manufacturing
-- **Statistical Methods:** 
-  - Pearson Correlation Analysis
-  - Spearman Correlation Analysis
-  - Multiple Linear Regression
 
 #### 🎯 Key Hypotheses Tested
 1. The 5Vs directly predict Data Integrity
@@ -53,25 +47,91 @@ This field project investigated how the five dimensions of Big Data (Volume, Vel
 - Data Integrity serves as the critical link between Big Data infrastructure (5Vs) and business returns
 - Organizations treating Data Integrity as a backend IT task are missing measurable value
 
-#### 📊 Business Implications
-The analysis reveals that **Data Integrity is not just an IT concern—it is a business-critical driver of ROI**. While Big Data infrastructure (5Vs) is necessary, the accuracy, consistency, and reliability of the data is what converts those conditions into tangible business value.
-
-#### 🔑 Keywords
-Big Data, 5Vs Framework, Data Integrity, Return on Investment, IT Organizations, Data Governance, Correlation Analysis, Multiple Regression, Market Research
-
 #### 📁 Project Files
 See `/academic-projects/IT-Data-Integrity-ROI/` for detailed analysis, charts, and documentation.
+
+---
+
+### FMCG Industry Analysis (India)
+
+**Project Type:** Industry & Comparative Analysis  
+**Status:** Completed  
+**Technologies:** Excel, Financial Ratio Analysis, SWOT Analysis, PESTEL Framework, Trend Analysis
+
+#### 📋 Overview
+This project presents a comprehensive analysis of the Indian Fast-Moving Consumer Goods (FMCG) industry through comparison of top 5 and bottom 5 companies based on financial performance, market position, profitability, strategic initiatives, and operational efficiency.
+
+#### 🔬 Research Methodology
+- **Research Design:** Descriptive and Analytical
+- **Data Source:** Secondary data from annual reports, industry databases, and company websites
+- **Analysis Techniques:**
+  - Financial Ratio Analysis
+  - Trend Analysis
+  - Comparative Analysis
+  - SWOT Analysis
+  - PESTEL Analysis
+  - Industry Analysis
+
+#### 🏢 Companies Analyzed
+
+**Top 5 FMCG Companies:**
+1. Hindustan Unilever (HUL)
+2. ITC Ltd.
+3. Nestlé India
+4. Britannia Industries
+5. Dabur India
+
+**Bottom 5 FMCG Companies:**
+1. Emami Ltd.
+2. Jyothy Labs
+3. Zydus Wellness
+4. Godrej Consumer Products
+5. Hatsun Agro Product Ltd.
+
+#### 💡 Key Findings
+
+**Market Leaders' Success Factors:**
+- Strong brand equity, diversified product portfolios, and robust distribution networks
+- Consistent profitability and efficient cash flow management
+- Innovation-driven product development and market expansion
+- Operational excellence and supply chain efficiency
+
+**Underperformers' Challenges:**
+- Limited market penetration and brand visibility
+- Weak distribution networks and regional concentration
+- Resource constraints limiting innovation and expansion
+- Operational inefficiencies and margin compression
+- Scale disadvantages affecting competitiveness
+
+**Strategic Insights:**
+- Success driven by brand equity, product diversification, distribution excellence, and operational efficiency
+- Performance gap linked to scale advantages and market positioning
+- Strong growth potential for companies with differentiated strategies
+
+#### 📊 Key Metrics Analyzed
+- **Financial:** Revenue, profit margins, ROE, ROA, EPS, cash flow
+- **Operational:** Market share, brand positioning, distribution strength, supply chain efficiency
+- **Strategic:** Innovation initiatives, market expansion, pricing strategy, competitive advantages
+
+#### 🔑 Keywords
+FMCG, Industry Analysis, Financial Analysis, Competitive Analysis, SWOT, PESTEL, Market Share, Profitability, India, Consumer Goods
+
+#### 📁 Project Files
+See `/academic-projects/FMCG-Industry-Analysis/` for detailed analysis, company profiles, and strategic recommendations.
 
 ---
 
 ## 📈 Skills Demonstrated
 - Data Collection & Survey Design
 - Statistical Analysis & Hypothesis Testing
-- Data Integrity Assessment
+- Financial Analysis & Ratio Analysis
+- Industry Research & Competitive Analysis
 - Business Impact Analysis
 - Market Research
 - Excel & SPSS Proficiency
 - Data Visualization
+- Strategic Analysis (SWOT, PESTEL)
+- Report Writing & Communication
 - Critical Business Insights
 
 ## 🔗 Connect
